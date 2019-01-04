@@ -1,4 +1,5 @@
 import React, {Fragment} from "react";
+
 export default class CurrentListings extends React.Component{
   render (){
     return <Fragment>
