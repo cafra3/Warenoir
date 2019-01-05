@@ -1,5 +1,5 @@
 import React from "react"
-import image from './background.png'
+import image from '../images/background.png'
 // const mainstyle = {
 //   backgroundImage: url("./background.png")
 //   backgroundColor:"blue"
@@ -24,7 +24,7 @@ function Main() {
     <div style={mainstyle}>
     =
         <h2 style={noirstyle}>Ware Noir</h2>
-      
+
 
       <h1>Store Cheaper</h1>
     </div>
