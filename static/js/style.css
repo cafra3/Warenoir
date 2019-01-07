@@ -27,10 +27,16 @@ body {
 }
 
 .summary {
-  display:block
+  width:500;
+  height:200;
 }
+
 .summary > h3 {
   text-decoration:underline orange;
+  text-align: left;
+}
+.summary >p{
+  word-wrap: break-word;
 }
 
 .share-style > h2{
