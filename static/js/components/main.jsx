@@ -1,5 +1,5 @@
 import React from "react"
-import image from '../background.png'
+import image from '../images/background.png'
 import Style from '../style.css'
 // const mainstyle = {
 //   backgroundImage: url("./background.png")
