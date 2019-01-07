@@ -22,5 +22,12 @@ body {
 }
 
 .listings-card > p {
-    font-size: 12px;
+    font-size: 40px;
+}
+
+.share-style > h2{
+    text-decoration:underline orange;
+}
+.share-style > h1{
+  text-decoration: underline
 }

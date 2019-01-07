@@ -1,5 +1,6 @@
 import React from "react";
 import ListingsCard from "./ListingsCard"
+// import Style from "../style.css"
 
 export default class CurrentListings extends React.Component{
   render (){
