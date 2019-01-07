@@ -20,7 +20,7 @@ function Main() {
     return(
     <div style={mainstyle}>
       <div className="share-style">
-        <h2>Sharepad</h2>
+        <h2>Storackk</h2>
         <h1>Store Cheaper</h1>
       </div>
     </div>

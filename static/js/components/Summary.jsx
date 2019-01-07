@@ -1,7 +1,7 @@
 import React from 'react';
 export default class Summary extends React.Component {
   render () {
-    return <div>
+    return <div className="summary">
             <h3> Earn Money From Your Space </h3>
             <p>
             Sharepad grants people the ability to make money by storing other
