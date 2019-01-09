@@ -9,7 +9,6 @@ class HomePage extends React.Component {
     render(){
       return (
         <div>
-        <NavBar />
         <Main />
         <Summary />
         <CurrentListings />

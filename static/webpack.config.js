@@ -18,6 +18,10 @@ const config = {
       {
         test: /\.(jpg|png|svg)$/,
         loader: 'url-loader'
+      },
+      {
+        test: /\.css$/,
+        use:['style-loader','css-loader']
       }
   ]
 }

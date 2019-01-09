@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-.listing {
+.listings {
     display: flex;
     flex-wrap: wrap;
 }
@@ -13,14 +13,43 @@ body {
 }
 
 .listings-card > img {
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
-.listings-card > h3 {
+.listings > h3 {
     text-align: center;
+    text-decoration:underline orange;
 }
 
 .listings-card > p {
     font-size: 12px;
+}
+
+.summary {
+  width:500;
+  height:200;
+}
+
+.summary > h3 {
+  text-decoration:underline orange;
+  text-align: left;
+}
+.summary >p{
+  word-wrap: break-word;
+}
+
+.share-style > h2{
+    text-decoration:underline orange;
+}
+
+.nav-bar >header{
+  text-align: center;
+  background: linear-gradient(to right, #f12711, #f5af19);
+}
+
+.nav-bar >h1{
+  color: 'white';
+  background: #f5af19;
+  text-align: center;
 }

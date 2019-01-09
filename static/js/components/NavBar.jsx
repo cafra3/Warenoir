@@ -1,12 +1,12 @@
 import React from "react"
 import {AppBar, Toolbar,Button} from '@material-ui/core/'
-export default class NavBar extends React.Component {
-  render(){
-    return <AppBar position="static">
-              <Toolbar>
+import Style from "../style.css"
 
-              </Toolbar>
-            </AppBar>
-
-  }
+function NavBar (){
+  return(
+    <div className="nav-bar">
+        <h1> Storackk</h1>    
+    </div>
+  )
 }
+export default NavBar
