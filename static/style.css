@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.listing {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.listings-card {
+    flex-basis: 250px;
+    margin: 20px;
+}
+
+.listings-card > img {
+    width: 100%;
+    height: auto;
+}
+
+.listings-card > h3 {
+    text-align: center;
+}
+
+.listings-card > p {
+    font-size: 12px;
+}
