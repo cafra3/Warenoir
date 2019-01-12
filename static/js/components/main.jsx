@@ -21,7 +21,7 @@ function Main() {
     <div style={mainstyle}>
       <div className="share-style">
         <h2>Storackk</h2>
-        <h1>Store Cheaper</h1>
+        <h1>Store Cheaper,Store With Friends</h1>
       </div>
     </div>
 
